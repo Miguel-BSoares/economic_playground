@@ -1,9 +1,7 @@
 ### Fintech repository ###
 Tool development to simulate financial scenarios
 
-# 1.
-
-# 📈 Bayesian Dividend Simulator
+# 1. Bayesian Dividend Simulator
 
 A Streamlit web app that models dividend income and reinvestment using Bayesian priors and high-probability density intervals (HPDI).
 
