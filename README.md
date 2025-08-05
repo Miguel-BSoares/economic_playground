@@ -5,6 +5,8 @@ Tool development to simulate financial scenarios
 
 A Streamlit web app that models dividend income and reinvestment using Bayesian priors and high-probability density intervals (HPDI).
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bayedivsv1.streamlit.app)
+
 ## 🚀 Features
 
 - Define priors for:
@@ -22,7 +24,5 @@ A Streamlit web app that models dividend income and reinvestment using Bayesian 
   - 95% HPDI shaded confidence intervals
 - CSV download of results
 
-## 📦 Installation
 
-```bash
-pip install streamlit matplotlib numpy
+
