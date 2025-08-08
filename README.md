@@ -7,6 +7,10 @@ I have an interest in economy and stock market because I find it interesting how
 
 A Streamlit web app that models dividend income and reinvestment using Bayesian priors and high-probability density intervals (HPDI).
 
+The idea is to be able to model variance in earnings as a function of different scenarios. Bayesian statistics allow to devise expected distributions, but in general this is based on quite simplistic expectations. 
+
+More importantly, it accounts for compound interest rates (and earnings) over monthly or quarterly periods. 
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bayedivsv1.streamlit.app)
 
 ## 🚀 Features
